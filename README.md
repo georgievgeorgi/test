@@ -5,9 +5,9 @@ self [1].
 
 [Markdown cheetsheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-![svg](a.svg)
+![svg](a.svg?sanitize=true)
 
-[Full image here](a.svg)
+[Full image here](a.svg?sanitize=true)
 
 
 
