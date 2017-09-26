@@ -7,6 +7,8 @@ self [1].
 
 ![svg](a.svg)
 
+[Full image here](a.svg)
+
 
 
 ![img](a.png)
