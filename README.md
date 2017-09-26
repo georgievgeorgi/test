@@ -2,7 +2,7 @@
 
 self [1].
 
-!(img)[a.png]
+![img](a.png)
 
 
 
