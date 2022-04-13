@@ -1,4 +1,4 @@
-![ci](https://github.com/georgievgeorgi/test/actions/workflows/CI/badge.svg)
+![ci](https://github.com/georgievgeorgi/test/actions/workflows/main.yml/badge.svg)
 
 # test
 
