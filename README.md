@@ -1,3 +1,5 @@
+![ci](https://github.com/georgievgeorgi/test/actions/workflows/CI/badge.svg)
+
 # test
 
 Links:
